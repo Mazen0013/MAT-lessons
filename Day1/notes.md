@@ -15,7 +15,7 @@ warm-up and connect with students and get their attention
 ## Introduction to HTML:
 
 _NOTE_ (use html.basics slides 1-15)
-[introdution to HTML](https://drive.google.com/drive/folders/0APBGove5z1ZFUk9PVA)
+[introdution to HTML](file:///C:/Users/dci-student/Desktop/mat/html-basics.pdf)
 
 ### Headings:
 
